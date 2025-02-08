@@ -2,6 +2,6 @@
 
 int main(void)
 {
-  printf("hell world\n");
+  printf("Hell World\n");
   printf("printf 2 ");
 }
